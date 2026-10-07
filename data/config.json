@@ -1,0 +1,16 @@
+{
+    "blockerLifeTime": 0.15000000596046448,
+    "blockerRadius": 0.20000000298023224,
+    "directionWindow": 0.5,
+    "distIp": "localhost",
+    "distPort": 10002,
+    "landingSpeed": 0.800000011920929,
+    "lifeTime": 1.0,
+    "listenPort": 10001,
+    "matchMaxDist": 1.0,
+    "matchWindow": 0.10000000149011612,
+    "prevStampMaxDist": 2.0,
+    "prevStampMinDist": 0.25,
+    "prevStampWindow": 2.0,
+    "stampLifeTime": 2.0
+}
